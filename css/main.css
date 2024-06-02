@@ -429,7 +429,7 @@
 .reserve-store .medal:hover .back {
   transform: rotateY(0deg);
 }
-.reserve-store .medal:hover .back .btn {
+.reserve-store .medal .back .btn {
   position: absolute;
   top: 240px;
   left: 0;
